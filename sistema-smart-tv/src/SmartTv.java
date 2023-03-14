@@ -16,6 +16,7 @@ public class SmartTv {
 
     public void escolherCanal(int novoCanal) {
         canal = novoCanal;
+        System.out.println("Indo para o canal: " + canal);
     }
 
     public void aumentarVolume() {
