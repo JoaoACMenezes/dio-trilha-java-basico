@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class AbautMe2 {
+public class AboutMe2 {
 
     
  
